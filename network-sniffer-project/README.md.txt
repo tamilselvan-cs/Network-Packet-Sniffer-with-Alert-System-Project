@@ -283,11 +283,6 @@ This tool is designed for:
 Important: Always ensure you have explicit permission to monitor network traffic. Unauthorized use may violate laws and regulations.
 
 
-📞 Contact
-Developer: Tamilselvan C
-Email: tamilselvanc.cs@gmail.com
-LinkedIn: https://www.linkedin.com/in/tamilselvanc-cs/
-
 🙏 Acknowledgments
 Elevate Labs - For the internship opportunity
 
@@ -296,3 +291,4 @@ Scapy Community - For the excellent packet manipulation library
 Python Community - For comprehensive documentation and support
 
 Kali Linux Team - For the robust security testing platform
+
