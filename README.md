@@ -1,6 +1,7 @@
 # Network-Packet-Sniffer-with-Alert-System-Project
 "Python-based network packet sniffer with real-time anomalyalerts using scapy,SQLite, and Matplotlib".
 
+🔍 CyberGuard - Network Security Monitor
 https://img.shields.io/badge/Python-3.8%252B-blue
 https://img.shields.io/badge/License-MIT-green
 https://img.shields.io/badge/Platform-Linux-lightgrey
@@ -121,7 +122,8 @@ Network-Packet-sniffer/
 ├── requirements.txt       # Python dependencies
 ├── README.md             # This file
 ├── network_sniffer.db    # Database file (auto-generated)
-└── cyberguard.log        # Log file (auto-generated)
+├── cyberguard.log        # Log file (auto-generated)
+└── Screenshots            #Screenshot of User interface
 ⚙️ Configuration
 IDS Rules Configuration
 Edit ids_rules.yaml to customize detection behavior:
@@ -280,9 +282,10 @@ This tool is designed for:
 
 Important: Always ensure you have explicit permission to monitor network traffic. Unauthorized use may violate laws and regulations.
 
+
 📞 Contact
-Developer: [Your Name]
-Email: your.email@example.com
+Developer: Tamilselvan C
+Email: tamilselvanc.cs@gmail.com
 LinkedIn: Your Profile
 
 🙏 Acknowledgments
