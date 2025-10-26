@@ -111,7 +111,7 @@ bash
 sudo python3 sniffer_core.py
 📁 Project Structure
 text
-Network-Packet-sniffer/
+Network-sniffer-project/
 ├── main.py                 # Main application entry point
 ├── sniffer_core.py         # Core packet capture and analysis engine
 ├── gui_dashboard.py        # Modern GUI interface
