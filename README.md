@@ -283,9 +283,7 @@ This tool is designed for:
 Important: Always ensure you have explicit permission to monitor network traffic. Unauthorized use may violate laws and regulations.
 
 
-📞 Contact
-Developer: Tamilselvan C
-Email: tamilselvanc.cs@gmail.com
+
 
 🙏 Acknowledgments
 Elevate Labs - For the internship opportunity
