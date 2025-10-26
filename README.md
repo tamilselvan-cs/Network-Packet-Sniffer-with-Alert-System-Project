@@ -286,7 +286,6 @@ Important: Always ensure you have explicit permission to monitor network traffic
 📞 Contact
 Developer: Tamilselvan C
 Email: tamilselvanc.cs@gmail.com
-LinkedIn: https://www.linkedin.com/in/tamilselvanc-cs/
 
 🙏 Acknowledgments
 Elevate Labs - For the internship opportunity
