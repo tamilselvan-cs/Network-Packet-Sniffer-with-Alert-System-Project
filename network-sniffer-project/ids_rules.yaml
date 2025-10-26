@@ -1,0 +1,22 @@
+rules:
+  port_scan:
+    name: "Port Scan Detection"
+    threshold: 10
+    time_window: 10
+    
+  dns_exfiltration:
+    name: "DNS Exfiltration" 
+    query_length_threshold: 50
+    
+  http_credentials:
+    name: "HTTP Credentials"
+    keywords: ["password", "login", "username"]
+    
+  suspicious_ports:
+    name: "Suspicious Port Activity"
+    ports: [4444, 31337, 1337, 12345]
+    
+  icmp_flood:
+    name: "ICMP Flood"
+    threshold: 50
+    time_window: 5
