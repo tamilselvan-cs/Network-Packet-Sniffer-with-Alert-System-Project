@@ -55,7 +55,7 @@ Quick Setup
 Clone the Repository
 
 bash
-git clone https://github.com/yourusername/cyberguard.git
+git clone https://github.com/tamilselvan-cs/Network-Packet-Sniffer-with-Alert-System-Project
 cd cyberguard
 Install Dependencies
 
@@ -261,7 +261,7 @@ Open a Pull Request
 Development Setup
 bash
 # Set up development environment
-git clone https://github.com/yourusername/cyberguard.git
+git clonehttps://github.com/tamilselvan-cs/Network-Packet-Sniffer-with-Alert-System-Project
 cd cyberguard
 python3 -m venv venv
 source venv/bin/activate
